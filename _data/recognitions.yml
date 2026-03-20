@@ -1,11 +1,31 @@
 # Certifications
 
-- award: Workato Foundations Level 2
-  organization: Workato
+- award: Microsoft Azure Administrator – AZ-104
+  organization: LogiTrain
   year: ""
   summary: ""
 
-- award: Workato Foundations Level 1
+- award: Microsoft Azure Fundamentals – AZ-900
+  organization: Microsoft Training
+  year: ""
+  summary: ""
+
+- award: ITIL v4 – Foundation
+  organization: PM Partners
+  year: ""
+  summary: ""
+
+- award: Microsoft SCCM 2012
+  organization: Microsoft Training
+  year: ""
+  summary: ""
+
+- award: Terraform Associate (In Progress)
+  organization: Pluralsight
+  year: ""
+  summary: ""
+
+- award: Automation Pro (In Progress)
   organization: Workato
   year: ""
   summary: ""

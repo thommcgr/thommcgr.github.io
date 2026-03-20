@@ -1,16 +1,19 @@
 # Skills
 
-- skill: Microsoft Azure
-  description: Cloud infrastructure administration including identity management, virtual machines, and cloud-based endpoint services.
+- skill: Infrastructure as Code
+  description: Experienced with Terraform for declarative infrastructure management and CI/CD pipelines. Proficient in PowerShell and PowerCLI scripting for automation across VMware vSphere and Windows environments.
 
-- skill: Windows Autopilot &amp; Endpoint Management
-  description: Zero-touch device provisioning and modern endpoint management using Microsoft Autopilot and Intune.
+- skill: Microsoft Azure
+  description: Certified Azure Administrator (AZ-104). Hands-on experience with Azure Update Manager, cloud identity, and hybrid cloud security governance.
 
 - skill: Network Engineering
-  description: Design, operation, and troubleshooting of large-scale telecommunications networks, developed over seven years at nbn™ Australia.
+  description: Seven years of large-scale network operations at nbn Co across GPON, HFC, Copper, DWDM, SEM, and Aggregation Networks. Experienced in incident management, stakeholder communication, and 24/7 operations environments.
+
+- skill: Endpoint Modernisation
+  description: Windows Autopilot and Microsoft Intune for modern, zero-touch device provisioning and endpoint lifecycle management across enterprise environments.
 
 - skill: Application Packaging &amp; Deployment
-  description: Enterprise software packaging and automated deployment across complex, large-scale environments.
+  description: Enterprise application packaging using AdminStudio and InstallShield. Software deployment via SCCM, Active Directory group policy, and Tivoli Endpoint Manager.
 
-- skill: Workato Integration Platform
-  description: Certified in Workato Foundations (Levels 1 &amp; 2) for building automated workflows and system integrations.
+- skill: VMware vSphere
+  description: Administration and automation of virtual machine lifecycle management in VMware vSphere environments using PowerCLI.

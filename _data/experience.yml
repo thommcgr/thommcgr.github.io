@@ -1,26 +1,61 @@
 # Jobs
 
-- company: Aged Care Quality and Safety Commission
+- company: Aged Care Quality and Safety Commission – Australian Public Service
   position: ICT System Administrator
-  duration: Nov, 2023 &mdash; Present
-  summary: Responsible for the administration and support of ICT systems across the Commission. Managing Microsoft Azure infrastructure, endpoint management via Autopilot, and supporting day-to-day operational IT needs across the organisation.
+  duration: 2023 &mdash; Present
+  summary: |
+    <ul class="resume-item-list">
+      <li><strong>Snowflake-as-Code:</strong> Leveraged Terraform to transition Snowflake infrastructure to a declarative IaC model, replacing manual configurations with a version-controlled CI/CD pipeline to ensure environment consistency.</li>
+      <li><strong>Infrastructure Automation:</strong> Developed and maintained PowerCLI scripts to automate lifecycle management for virtual machines within VMware vSphere, significantly reducing manual administrative overhead.</li>
+      <li><strong>Hybrid Cloud Security:</strong> Enhanced infrastructure resilience by implementing Azure Update Manager as a unified patch management solution for on-premises server environments.</li>
+      <li><strong>Operational Efficiency:</strong> Developed custom PowerShell automation to identify and remediate outdated software installations, ensuring environment hygiene and reclaiming disk resources.</li>
+    </ul>
 
-- company: nbn™ Australia
+- company: nbn Co
+  position: Acting Senior Network Engineer
+  duration: 2021 &mdash; 2023
+  summary: |
+    <ul class="resume-item-list">
+      <li>Led a team of network engineers in a 24/7 operations environment, ensuring the availability and performance of the company's network infrastructure.</li>
+      <li>Represented the Network Operation Centre (NOC) in stakeholder bridge meetings for event management, ensuring all services and alarms were cleared.</li>
+      <li>Managed high-impact incidents and change requests, communicating outcomes to upper management and major incident managers.</li>
+      <li>Served as subject matter expert (SME) for all network engineers, providing guidance and support on complex faults.</li>
+      <li>Managed incident queues to ensure work was carried out quickly and workload was evenly distributed across the team.</li>
+      <li>Contributed to post-incident reviews by providing technical expertise and insights.</li>
+    </ul>
+
+- company: nbn Co
   position: Network Engineer
-  duration: Oct, 2017 &mdash; Sep, 2023
-  summary: Engineered and maintained nbn's national network infrastructure over a six-year tenure. Responsible for network design, fault resolution, and capacity planning across a large-scale telecommunications environment.
+  duration: 2016 &mdash; 2023
+  summary: |
+    <ul class="resume-item-list">
+      <li>Provided technical network support to Retail Service Providers, field technicians, and Level 1 staff, resolving issues and ensuring smooth network operation.</li>
+      <li>Supported field technicians and network implementers as part of RTCM (Real Time Change Management) activities, ensuring timely and efficient implementation of network changes.</li>
+      <li>Monitored alarms using IBM Netcool across the nbn network, prioritising and escalating incidents based on SLAs and the Wholesale Broadband Agreement (WBA).</li>
+      <li>Provided support and troubleshooting across a variety of technologies including GPON, HFC, Copper, DWDM, SEM, and Aggregation Networks.</li>
+      <li>Communicated with stakeholders during high-impact events, ensuring timely and accurate updates.</li>
+      <li>Created clear and concise technical documentation that improved staff productivity by reducing processing time and increasing accuracy.</li>
+    </ul>
 
-- company: nbn™ Australia
-  position: Network Operator
-  duration: Jun, 2016 &mdash; Oct, 2017
-  summary: Monitored and operated nbn's network infrastructure, responding to incidents and escalating complex faults for resolution. Developed strong foundational knowledge of large-scale network operations.
+- company: IBM Australia (Tatts Group Contract)
+  position: Remote Technical Support
+  duration: 2013 &mdash; 2015
+  summary: |
+    <ul class="resume-item-list">
+      <li>Managed the Virtual Desktop Infrastructure (VDI), including provisioning new and existing virtual machines in the production environment.</li>
+      <li>Utilised Microsoft SCCM to ensure all machines were up to date with the latest applications and software patches.</li>
+      <li>Provided Level 2 support to corporate and retail bank staff, resolving complex technical issues and providing guidance on best practices.</li>
+      <li>Successfully implemented work instructions that reduced escalations to Level 2 by more than 50%, improving efficiency and customer satisfaction.</li>
+    </ul>
 
-- company: Tatts Group
-  position: Desktop Support Engineer
-  duration: Sep, 2013 &mdash; 2015
-  summary: Provided desktop and end-user support across the Tatts Group business, managing hardware, software, and connectivity issues for staff across Melbourne operations.
-
-- company: IBM
-  position: Application Packaging and Deployment Specialist
-  duration: Jul, 2010 &mdash; Sep, 2013
-  summary: Packaged and deployed enterprise software applications across large client environments. Ensured reliable, standardised software delivery and maintained deployment documentation and processes.
+- company: IBM Australia
+  position: Application Packaging Specialist
+  duration: 2010 &mdash; 2013
+  summary: |
+    <ul class="resume-item-list">
+      <li>Utilised AdminStudio and InstallShield to create application packages in MSI format as part of the enterprise application packaging process.</li>
+      <li>Test deployed software packages to end users via Active Directory group policy, SCCM, and Tivoli Endpoint Manager.</li>
+      <li>Created installation and automation scripts using Visual Basic and PowerShell.</li>
+      <li>Developed technical documentation including user guides, installation instructions, and troubleshooting guides.</li>
+      <li>Led the migration of over 700 legacy applications from Windows XP to Windows 7, resulting in a smooth and seamless transition.</li>
+    </ul>
