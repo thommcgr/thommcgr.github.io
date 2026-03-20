@@ -1,19 +1,26 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Aged Care Quality and Safety Commission
+  position: ICT System Administrator
+  duration: Nov, 2023 &mdash; Present
+  summary: Responsible for the administration and support of ICT systems across the Commission. Managing Microsoft Azure infrastructure, endpoint management via Autopilot, and supporting day-to-day operational IT needs across the organisation.
 
+- company: nbn™ Australia
+  position: Network Engineer
+  duration: Oct, 2017 &mdash; Sep, 2023
+  summary: Engineered and maintained nbn's national network infrastructure over a six-year tenure. Responsible for network design, fault resolution, and capacity planning across a large-scale telecommunications environment.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: nbn™ Australia
+  position: Network Operator
+  duration: Jun, 2016 &mdash; Oct, 2017
+  summary: Monitored and operated nbn's network infrastructure, responding to incidents and escalating complex faults for resolution. Developed strong foundational knowledge of large-scale network operations.
+
+- company: Tatts Group
+  position: Desktop Support Engineer
+  duration: Sep, 2013 &mdash; 2015
+  summary: Provided desktop and end-user support across the Tatts Group business, managing hardware, software, and connectivity issues for staff across Melbourne operations.
+
+- company: IBM
+  position: Application Packaging and Deployment Specialist
+  duration: Jul, 2010 &mdash; Sep, 2013
+  summary: Packaged and deployed enterprise software applications across large client environments. Ensured reliable, standardised software delivery and maintained deployment documentation and processes.

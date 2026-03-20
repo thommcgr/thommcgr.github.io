@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Microsoft Azure
+  description: Cloud infrastructure administration including identity management, virtual machines, and cloud-based endpoint services.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Windows Autopilot &amp; Endpoint Management
+  description: Zero-touch device provisioning and modern endpoint management using Microsoft Autopilot and Intune.
+
+- skill: Network Engineering
+  description: Design, operation, and troubleshooting of large-scale telecommunications networks, developed over seven years at nbn™ Australia.
+
+- skill: Application Packaging &amp; Deployment
+  description: Enterprise software packaging and automated deployment across complex, large-scale environments.
+
+- skill: Workato Integration Platform
+  description: Certified in Workato Foundations (Levels 1 &amp; 2) for building automated workflows and system integrations.
